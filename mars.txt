@@ -1,14 +1,10 @@
 #Mars
 
-Mars is cold and dry but everything is my favourite colour
+##Properties pertaining to monster habitability
+
+Mars is cold and dry but everything is Dracula's favourite colour
 The 2 moons may be a problem for Wolfman,
 but the Mummy will appreicate the lack of humdity
 
-
-##Properties pertaining to monster habitability
-
-Cold and dry  my favourite colour
-The 2 moons may be a problem for Wolfman
-but the Mummy will appreicate the lack of humdity
 
 ##Properties pertaining to human habitability
